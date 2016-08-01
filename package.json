@@ -1,0 +1,29 @@
+{
+  "name": "accessible-html5-video-player",
+  "version": "1.0.0",
+  "description": "Accessible HTML5 Video Player",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paypal/accessible-html5-video-player.git"
+  },
+  "keywords": [
+    "video",
+    "accessibile",
+    "video",
+    "player"
+  ],
+  "author": "Dennis Lembree (https://github.com/weboverhauls)",
+  "contributors": [
+    {"name": "Hozefa Jodiawalla", "url": "https://github.com/hozefaj"},
+    {"name": "Namaz Khan"}
+  ],
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/paypal/accessible-html5-video-player/issues"
+  },
+  "homepage": "https://github.com/paypal/accessible-html5-video-player#readme"
+}
