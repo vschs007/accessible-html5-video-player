@@ -1,4 +1,5 @@
 var GLOBAL_STRINGS = {
+    
     "PLAY": "Play",
     "PAUSE": "Pause",
     "TOGGLE_FULL_SCREEN": "Toggle full screen",
