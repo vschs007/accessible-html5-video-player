@@ -439,7 +439,7 @@ function InitPxVideo(options) {
 	obj.btnForward.addEventListener('click', function() {
 	    var targetTime = obj.movie.currentTime + obj.seekInterval;
 		if (targetTime > obj.movie.duration) {
-			obj.movie.currentTime = obj.movie.duration;
+			obj.movie.currentTime = 0;
 		}
 		else {
 			obj.movie.currentTime = targetTime;
